@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidVisionQR</string>
+    <string name="scan_button">SCAN</string>
+    <string name="qr_area">qr-area</string>
+    <string name="default_result">Result</string>
+</resources>
