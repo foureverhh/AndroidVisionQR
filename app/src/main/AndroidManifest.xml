@@ -15,8 +15,9 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-            <meta-data android:name="com.google.gms.vision.DEPENDENCIES"
+            <meta-data android:name="com.google.android.gms.vision"
                 android:value="barcode"/>
+            <!--"com.google.gms.vision.DEPENDENCIES"-->
         </activity>
     </application>
 
